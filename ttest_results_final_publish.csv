@@ -1,0 +1,9 @@
+,"F1 mean","CNN_Clasifier"
+"DummyClassifier","0.081","0.0 ***"
+"RandomForestClassifier","0.205","0.0 ***"
+"MultinomialNB","0.834","0.0 ***"
+"LogisticRegression","0.865","0.008 ***"
+"VotingClassifier","0.873","0.01 **"
+"LinearSVC","0.880","0.008 ***"
+"RNN_LSTM_Clasifier","0.941","0.098 **"
+"CNN_Clasifier","0.944",
