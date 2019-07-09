@@ -1,0 +1,121 @@
+"source","target","weight"
+"Roma","Milano",0.9271567090364462
+"Roma","Napoli",0.9155582348677614
+"Roma","Torino",0.8684812000701339
+"Roma","Palermo",0.7361948549092728
+"Roma","Genova",0.8325412256940609
+"Roma","Bologna",0.8995207425867896
+"Roma","Firenze",0.946612059141547
+"Roma","Bari",0.8999867628739314
+"Roma","Cagliari",0.7627476729453598
+"Roma","Pisa",0.8600436878937858
+"Roma","Verona",0.8611872124673519
+"Roma","Trieste",0.8997459982233202
+"Roma","Perugia",0.7962262454472206
+"Roma","Reggio di Calabria",0.7559329578597545
+"Roma","Trento",0.8051838436869291
+"Milano","Napoli",0.9142569252334288
+"Milano","Torino",0.9363206695908812
+"Milano","Palermo",0.6727893810759912
+"Milano","Genova",0.8357105628694297
+"Milano","Bologna",0.9278463844876818
+"Milano","Firenze",0.8781825586746089
+"Milano","Bari",0.9162810353301782
+"Milano","Cagliari",0.789331696306609
+"Milano","Pisa",0.8275099153049884
+"Milano","Verona",0.8783725546880016
+"Milano","Trieste",0.8764714157540475
+"Milano","Perugia",0.7694403439721876
+"Milano","Reggio di Calabria",0.7207880168941041
+"Milano","Trento",0.8447092889050472
+"Napoli","Torino",0.9032077956572391
+"Napoli","Palermo",0.7242173291603207
+"Napoli","Genova",0.8655320832837338
+"Napoli","Bologna",0.9096049342138635
+"Napoli","Firenze",0.8735034819903033
+"Napoli","Bari",0.9286348636373752
+"Napoli","Cagliari",0.798499655128715
+"Napoli","Pisa",0.833015483933113
+"Napoli","Verona",0.8619421670805774
+"Napoli","Trieste",0.9109455165348562
+"Napoli","Perugia",0.8178633046815171
+"Napoli","Reggio di Calabria",0.7976815528649548
+"Napoli","Trento",0.8391413657210144
+"Torino","Palermo",0.6228053198036437
+"Torino","Genova",0.913319031899984
+"Torino","Bologna",0.9489610734732227
+"Torino","Firenze",0.8926064108916275
+"Torino","Bari",0.9304742334664494
+"Torino","Cagliari",0.8273141114400364
+"Torino","Pisa",0.9066942296524497
+"Torino","Verona",0.8906405280928853
+"Torino","Trieste",0.9289510806489129
+"Torino","Perugia",0.8232843778264533
+"Torino","Reggio di Calabria",0.7643600378377526
+"Torino","Trento",0.8656737638778801
+"Palermo","Genova",0.6401362413391392
+"Palermo","Bologna",0.7128539536105163
+"Palermo","Firenze",0.6819513626408709
+"Palermo","Bari",0.6944882315629094
+"Palermo","Cagliari",0.7699090535227894
+"Palermo","Pisa",0.551613970365701
+"Palermo","Verona",0.6815707078219894
+"Palermo","Trieste",0.708459982996496
+"Palermo","Perugia",0.7224854935141762
+"Palermo","Reggio di Calabria",0.5321023498190416
+"Palermo","Trento",0.6657378655273569
+"Genova","Bologna",0.9167245159945191
+"Genova","Firenze",0.8793459692297676
+"Genova","Bari",0.8491424739562909
+"Genova","Cagliari",0.8662732776931767
+"Genova","Pisa",0.8718281421156306
+"Genova","Verona",0.9036487953890945
+"Genova","Trieste",0.9181631686732881
+"Genova","Perugia",0.8751492876927623
+"Genova","Reggio di Calabria",0.7783161629505618
+"Genova","Trento",0.8701430533556413
+"Bologna","Firenze",0.9020672842353735
+"Bologna","Bari",0.9051649338702156
+"Bologna","Cagliari",0.8700841666756616
+"Bologna","Pisa",0.8773307615871613
+"Bologna","Verona",0.9509582912280907
+"Bologna","Trieste",0.9552064660964913
+"Bologna","Perugia",0.9057439474790663
+"Bologna","Reggio di Calabria",0.7556181886441171
+"Bologna","Trento",0.9473317725384176
+"Firenze","Bari",0.8677291887013341
+"Firenze","Cagliari",0.7532142219590751
+"Firenze","Pisa",0.9128130258883069
+"Firenze","Verona",0.88760292901304
+"Firenze","Trieste",0.9150104711761412
+"Firenze","Perugia",0.8619759218512543
+"Firenze","Reggio di Calabria",0.7334830593654792
+"Firenze","Trento",0.8069359456042825
+"Bari","Cagliari",0.769886269860044
+"Bari","Pisa",0.8647164707074113
+"Bari","Verona",0.8135467703712248
+"Bari","Trieste",0.9205822168628125
+"Bari","Perugia",0.747173468270166
+"Bari","Reggio di Calabria",0.7568555822041279
+"Bari","Trento",0.82902176327162
+"Cagliari","Pisa",0.746543229760712
+"Cagliari","Verona",0.8514981308959632
+"Cagliari","Trieste",0.8111906305698606
+"Cagliari","Perugia",0.8605002072919457
+"Cagliari","Reggio di Calabria",0.7016948394221006
+"Cagliari","Trento",0.8116932472011519
+"Pisa","Verona",0.8633204771517438
+"Pisa","Trieste",0.8986949874176232
+"Pisa","Perugia",0.8198101181662586
+"Pisa","Reggio di Calabria",0.7494424764191762
+"Pisa","Trento",0.7953903340423879
+"Verona","Trieste",0.9008612167763831
+"Verona","Perugia",0.916358724248575
+"Verona","Reggio di Calabria",0.7451343126354957
+"Verona","Trento",0.9217377591692961
+"Trieste","Perugia",0.8688096983557703
+"Trieste","Reggio di Calabria",0.7775161282109483
+"Trieste","Trento",0.9167378737353329
+"Perugia","Reggio di Calabria",0.7402904217338868
+"Perugia","Trento",0.8717419326109603
+"Reggio di Calabria","Trento",0.7271251731392779
