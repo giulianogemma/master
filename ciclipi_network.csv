@@ -1,0 +1,226 @@
+StazPrelievo,StazDeposito,count,id_StazPrelievo,id_StazDeposito
+Aeroporto,Aeroporto,3,0.0,15.0
+Aeroporto,Borgo Stretto,65,0.0,16.0
+Aeroporto,Comune Palazzo Blu,154,0.0,17.0
+Aeroporto,Duomo,27,0.0,18.0
+Aeroporto,Ospedale Cisanello,10,0.0,19.0
+Aeroporto,Palacongressi,90,0.0,20.0
+Aeroporto,Paparelli,13,0.0,21.0
+Aeroporto,Pietrasantina,11,0.0,22.0
+Aeroporto,Polo Marzotto,41,0.0,23.0
+Aeroporto,Porta a Lucca,12,0.0,24.0
+Aeroporto,Pratale,21,0.0,25.0
+Aeroporto,Sms Biblioteca,7,0.0,26.0
+Aeroporto,Stazione F.S.,132,0.0,27.0
+Aeroporto,Teatro Tribunale,31,0.0,28.0
+Aeroporto,Vittorio Emanuele,71,0.0,29.0
+Borgo Stretto,Aeroporto,76,1.0,15.0
+Borgo Stretto,Borgo Stretto,496,1.0,16.0
+Borgo Stretto,Comune Palazzo Blu,600,1.0,17.0
+Borgo Stretto,Duomo,1479,1.0,18.0
+Borgo Stretto,Ospedale Cisanello,172,1.0,19.0
+Borgo Stretto,Palacongressi,2237,1.0,20.0
+Borgo Stretto,Paparelli,1583,1.0,21.0
+Borgo Stretto,Pietrasantina,377,1.0,22.0
+Borgo Stretto,Polo Marzotto,1686,1.0,23.0
+Borgo Stretto,Porta a Lucca,1060,1.0,24.0
+Borgo Stretto,Pratale,2474,1.0,25.0
+Borgo Stretto,Sms Biblioteca,301,1.0,26.0
+Borgo Stretto,Stazione F.S.,3474,1.0,27.0
+Borgo Stretto,Teatro Tribunale,362,1.0,28.0
+Borgo Stretto,Vittorio Emanuele,2537,1.0,29.0
+Comune Palazzo Blu,Aeroporto,171,2.0,15.0
+Comune Palazzo Blu,Borgo Stretto,526,2.0,16.0
+Comune Palazzo Blu,Comune Palazzo Blu,230,2.0,17.0
+Comune Palazzo Blu,Duomo,786,2.0,18.0
+Comune Palazzo Blu,Ospedale Cisanello,59,2.0,19.0
+Comune Palazzo Blu,Palacongressi,654,2.0,20.0
+Comune Palazzo Blu,Paparelli,914,2.0,21.0
+Comune Palazzo Blu,Pietrasantina,493,2.0,22.0
+Comune Palazzo Blu,Polo Marzotto,930,2.0,23.0
+Comune Palazzo Blu,Porta a Lucca,431,2.0,24.0
+Comune Palazzo Blu,Pratale,801,2.0,25.0
+Comune Palazzo Blu,Sms Biblioteca,256,2.0,26.0
+Comune Palazzo Blu,Stazione F.S.,1662,2.0,27.0
+Comune Palazzo Blu,Teatro Tribunale,192,2.0,28.0
+Comune Palazzo Blu,Vittorio Emanuele,1054,2.0,29.0
+Duomo,Aeroporto,29,3.0,15.0
+Duomo,Borgo Stretto,1753,3.0,16.0
+Duomo,Comune Palazzo Blu,768,3.0,17.0
+Duomo,Duomo,165,3.0,18.0
+Duomo,Ospedale Cisanello,96,3.0,19.0
+Duomo,Palacongressi,630,3.0,20.0
+Duomo,Paparelli,525,3.0,21.0
+Duomo,Pietrasantina,1057,3.0,22.0
+Duomo,Polo Marzotto,2873,3.0,23.0
+Duomo,Porta a Lucca,404,3.0,24.0
+Duomo,Pratale,2120,3.0,25.0
+Duomo,Sms Biblioteca,78,3.0,26.0
+Duomo,Stazione F.S.,1058,3.0,27.0
+Duomo,Teatro Tribunale,489,3.0,28.0
+Duomo,Vittorio Emanuele,1306,3.0,29.0
+Ospedale Cisanello,Aeroporto,15,4.0,15.0
+Ospedale Cisanello,Borgo Stretto,168,4.0,16.0
+Ospedale Cisanello,Comune Palazzo Blu,50,4.0,17.0
+Ospedale Cisanello,Duomo,124,4.0,18.0
+Ospedale Cisanello,Ospedale Cisanello,26,4.0,19.0
+Ospedale Cisanello,Palacongressi,332,4.0,20.0
+Ospedale Cisanello,Paparelli,102,4.0,21.0
+Ospedale Cisanello,Pietrasantina,12,4.0,22.0
+Ospedale Cisanello,Polo Marzotto,64,4.0,23.0
+Ospedale Cisanello,Porta a Lucca,43,4.0,24.0
+Ospedale Cisanello,Pratale,202,4.0,25.0
+Ospedale Cisanello,Sms Biblioteca,65,4.0,26.0
+Ospedale Cisanello,Stazione F.S.,534,4.0,27.0
+Ospedale Cisanello,Teatro Tribunale,74,4.0,28.0
+Ospedale Cisanello,Vittorio Emanuele,187,4.0,29.0
+Palacongressi,Aeroporto,82,5.0,15.0
+Palacongressi,Borgo Stretto,2214,5.0,16.0
+Palacongressi,Comune Palazzo Blu,864,5.0,17.0
+Palacongressi,Duomo,921,5.0,18.0
+Palacongressi,Ospedale Cisanello,406,5.0,19.0
+Palacongressi,Palacongressi,314,5.0,20.0
+Palacongressi,Paparelli,231,5.0,21.0
+Palacongressi,Pietrasantina,45,5.0,22.0
+Palacongressi,Polo Marzotto,1336,5.0,23.0
+Palacongressi,Porta a Lucca,282,5.0,24.0
+Palacongressi,Pratale,703,5.0,25.0
+Palacongressi,Sms Biblioteca,466,5.0,26.0
+Palacongressi,Stazione F.S.,3280,5.0,27.0
+Palacongressi,Teatro Tribunale,818,5.0,28.0
+Palacongressi,Vittorio Emanuele,1224,5.0,29.0
+Paparelli,Aeroporto,18,6.0,15.0
+Paparelli,Borgo Stretto,1970,6.0,16.0
+Paparelli,Comune Palazzo Blu,837,6.0,17.0
+Paparelli,Duomo,686,6.0,18.0
+Paparelli,Ospedale Cisanello,91,6.0,19.0
+Paparelli,Palacongressi,198,6.0,20.0
+Paparelli,Paparelli,57,6.0,21.0
+Paparelli,Pietrasantina,61,6.0,22.0
+Paparelli,Polo Marzotto,1004,6.0,23.0
+Paparelli,Porta a Lucca,82,6.0,24.0
+Paparelli,Pratale,783,6.0,25.0
+Paparelli,Sms Biblioteca,20,6.0,26.0
+Paparelli,Stazione F.S.,391,6.0,27.0
+Paparelli,Teatro Tribunale,514,6.0,28.0
+Paparelli,Vittorio Emanuele,382,6.0,29.0
+Pietrasantina,Aeroporto,29,7.0,15.0
+Pietrasantina,Borgo Stretto,319,7.0,16.0
+Pietrasantina,Comune Palazzo Blu,507,7.0,17.0
+Pietrasantina,Duomo,1185,7.0,18.0
+Pietrasantina,Ospedale Cisanello,9,7.0,19.0
+Pietrasantina,Palacongressi,44,7.0,20.0
+Pietrasantina,Paparelli,54,7.0,21.0
+Pietrasantina,Pietrasantina,55,7.0,22.0
+Pietrasantina,Polo Marzotto,97,7.0,23.0
+Pietrasantina,Porta a Lucca,35,7.0,24.0
+Pietrasantina,Pratale,144,7.0,25.0
+Pietrasantina,Sms Biblioteca,7,7.0,26.0
+Pietrasantina,Stazione F.S.,104,7.0,27.0
+Pietrasantina,Teatro Tribunale,124,7.0,28.0
+Pietrasantina,Vittorio Emanuele,320,7.0,29.0
+Polo Marzotto,Aeroporto,28,8.0,15.0
+Polo Marzotto,Borgo Stretto,1630,8.0,16.0
+Polo Marzotto,Comune Palazzo Blu,932,8.0,17.0
+Polo Marzotto,Duomo,1963,8.0,18.0
+Polo Marzotto,Ospedale Cisanello,48,8.0,19.0
+Polo Marzotto,Palacongressi,1363,8.0,20.0
+Polo Marzotto,Paparelli,935,8.0,21.0
+Polo Marzotto,Pietrasantina,88,8.0,22.0
+Polo Marzotto,Polo Marzotto,413,8.0,23.0
+Polo Marzotto,Porta a Lucca,226,8.0,24.0
+Polo Marzotto,Pratale,1123,8.0,25.0
+Polo Marzotto,Sms Biblioteca,277,8.0,26.0
+Polo Marzotto,Stazione F.S.,3395,8.0,27.0
+Polo Marzotto,Teatro Tribunale,397,8.0,28.0
+Polo Marzotto,Vittorio Emanuele,1642,8.0,29.0
+Porta a Lucca,Aeroporto,21,9.0,15.0
+Porta a Lucca,Borgo Stretto,1291,9.0,16.0
+Porta a Lucca,Comune Palazzo Blu,698,9.0,17.0
+Porta a Lucca,Duomo,456,9.0,18.0
+Porta a Lucca,Ospedale Cisanello,76,9.0,19.0
+Porta a Lucca,Palacongressi,387,9.0,20.0
+Porta a Lucca,Paparelli,70,9.0,21.0
+Porta a Lucca,Pietrasantina,68,9.0,22.0
+Porta a Lucca,Polo Marzotto,291,9.0,23.0
+Porta a Lucca,Porta a Lucca,109,9.0,24.0
+Porta a Lucca,Pratale,445,9.0,25.0
+Porta a Lucca,Sms Biblioteca,54,9.0,26.0
+Porta a Lucca,Stazione F.S.,1015,9.0,27.0
+Porta a Lucca,Teatro Tribunale,245,9.0,28.0
+Porta a Lucca,Vittorio Emanuele,890,9.0,29.0
+Pratale,Aeroporto,37,10.0,15.0
+Pratale,Borgo Stretto,2316,10.0,16.0
+Pratale,Comune Palazzo Blu,628,10.0,17.0
+Pratale,Duomo,2592,10.0,18.0
+Pratale,Ospedale Cisanello,250,10.0,19.0
+Pratale,Palacongressi,675,10.0,20.0
+Pratale,Paparelli,625,10.0,21.0
+Pratale,Pietrasantina,96,10.0,22.0
+Pratale,Polo Marzotto,1321,10.0,23.0
+Pratale,Porta a Lucca,304,10.0,24.0
+Pratale,Pratale,193,10.0,25.0
+Pratale,Sms Biblioteca,87,10.0,26.0
+Pratale,Stazione F.S.,3060,10.0,27.0
+Pratale,Teatro Tribunale,586,10.0,28.0
+Pratale,Vittorio Emanuele,885,10.0,29.0
+Sms Biblioteca,Aeroporto,6,11.0,15.0
+Sms Biblioteca,Borgo Stretto,254,11.0,16.0
+Sms Biblioteca,Comune Palazzo Blu,235,11.0,17.0
+Sms Biblioteca,Duomo,79,11.0,18.0
+Sms Biblioteca,Ospedale Cisanello,71,11.0,19.0
+Sms Biblioteca,Palacongressi,458,11.0,20.0
+Sms Biblioteca,Paparelli,29,11.0,21.0
+Sms Biblioteca,Pietrasantina,4,11.0,22.0
+Sms Biblioteca,Polo Marzotto,430,11.0,23.0
+Sms Biblioteca,Porta a Lucca,63,11.0,24.0
+Sms Biblioteca,Pratale,66,11.0,25.0
+Sms Biblioteca,Sms Biblioteca,160,11.0,26.0
+Sms Biblioteca,Stazione F.S.,225,11.0,27.0
+Sms Biblioteca,Teatro Tribunale,198,11.0,28.0
+Sms Biblioteca,Vittorio Emanuele,203,11.0,29.0
+Stazione F.S.,Aeroporto,164,12.0,15.0
+Stazione F.S.,Borgo Stretto,4389,12.0,16.0
+Stazione F.S.,Comune Palazzo Blu,1232,12.0,17.0
+Stazione F.S.,Duomo,1142,12.0,18.0
+Stazione F.S.,Ospedale Cisanello,659,12.0,19.0
+Stazione F.S.,Palacongressi,3241,12.0,20.0
+Stazione F.S.,Paparelli,443,12.0,21.0
+Stazione F.S.,Pietrasantina,88,12.0,22.0
+Stazione F.S.,Polo Marzotto,4030,12.0,23.0
+Stazione F.S.,Porta a Lucca,767,12.0,24.0
+Stazione F.S.,Pratale,2976,12.0,25.0
+Stazione F.S.,Sms Biblioteca,287,12.0,26.0
+Stazione F.S.,Stazione F.S.,175,12.0,27.0
+Stazione F.S.,Teatro Tribunale,1407,12.0,28.0
+Stazione F.S.,Vittorio Emanuele,362,12.0,29.0
+Teatro Tribunale,Aeroporto,28,13.0,15.0
+Teatro Tribunale,Borgo Stretto,374,13.0,16.0
+Teatro Tribunale,Comune Palazzo Blu,250,13.0,17.0
+Teatro Tribunale,Duomo,683,13.0,18.0
+Teatro Tribunale,Ospedale Cisanello,81,13.0,19.0
+Teatro Tribunale,Palacongressi,785,13.0,20.0
+Teatro Tribunale,Paparelli,377,13.0,21.0
+Teatro Tribunale,Pietrasantina,93,13.0,22.0
+Teatro Tribunale,Polo Marzotto,386,13.0,23.0
+Teatro Tribunale,Porta a Lucca,207,13.0,24.0
+Teatro Tribunale,Pratale,680,13.0,25.0
+Teatro Tribunale,Sms Biblioteca,298,13.0,26.0
+Teatro Tribunale,Stazione F.S.,1151,13.0,27.0
+Teatro Tribunale,Teatro Tribunale,198,13.0,28.0
+Teatro Tribunale,Vittorio Emanuele,729,13.0,29.0
+Vittorio Emanuele,Aeroporto,131,14.0,15.0
+Vittorio Emanuele,Borgo Stretto,2583,14.0,16.0
+Vittorio Emanuele,Comune Palazzo Blu,962,14.0,17.0
+Vittorio Emanuele,Duomo,1317,14.0,18.0
+Vittorio Emanuele,Ospedale Cisanello,161,14.0,19.0
+Vittorio Emanuele,Palacongressi,1384,14.0,20.0
+Vittorio Emanuele,Paparelli,314,14.0,21.0
+Vittorio Emanuele,Pietrasantina,319,14.0,22.0
+Vittorio Emanuele,Polo Marzotto,2055,14.0,23.0
+Vittorio Emanuele,Porta a Lucca,678,14.0,24.0
+Vittorio Emanuele,Pratale,905,14.0,25.0
+Vittorio Emanuele,Sms Biblioteca,204,14.0,26.0
+Vittorio Emanuele,Stazione F.S.,205,14.0,27.0
+Vittorio Emanuele,Teatro Tribunale,675,14.0,28.0
+Vittorio Emanuele,Vittorio Emanuele,247,14.0,29.0
